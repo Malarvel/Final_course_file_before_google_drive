@@ -18,7 +18,7 @@
                 <h3><strong>MY Course Page</strong></h3>
               </div>
               <div class="col-md-1 col-sm-3 col-xs-3 ">
-              <button type="button" class="btn btn-round btn-info" onclick="window.history.go(-1); return false;"><i class="fa fa-mail-reply"></i> Back</button>
+             <a class="btn btn-round btn-info" id="lecture_submit" href="course_page.php"><i class="fa fa-mail-reply"></i> Back</a>
               </div>
                </div>
                </div>
